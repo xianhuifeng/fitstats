@@ -88,3 +88,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Deployment (Microsoft Azure)
 See [DEPLOYMENT.md](DEPLOYMENT.md) for instructions on how to setup your project for deployment on Microsoft Azure.
+
+##Author
+Xianhui Feng   [xianhuifeng/fitstats](https://github.com/xianhuifeng/fitstats/commits/master)
+- Created MongoDB schema for data receiving and updating using mongoose ODM
+- Implemented  full stack web application allowing users add MyFitnessPal API data asynchronously with Angular.js and express.js
